@@ -6,35 +6,44 @@ São Paulo, SP | +55 (11) 99225-5118 | gbrandaomartins11@hotmail.com | [LinkedIn
 
 ---
 
-## Objective 
-To secure a challenging internship or trainee position in Software Development or Data Science, where I can apply my knowledge, learn new technologies, and grow professionally.
+## Objective  
+To secure a challenging position in Software Development or Data Science area, where I can apply my knowledge, learn new technologies, grow professionally and mentally.
 
 ---
 
-## Education 
+## Experience  
+
+**Mottu | Field Service Intern**  
+*2025-03 – Present*  
+Focused on managing third-party drivers responsible for motorcycle recovery. My role combines data analysis, communication and process automation to improve operational efficiency.
+
+- Built dashboards and performed data analysis using Power BI, BigQuery, and Intercom.  
+- Automated daily, weekly, and biweekly report generation and email scheduling.  
+- Developed automation for biweekly operational closing using BigQuery and Pipefy.  
+- Created a support chatbot with OpenAI and custom endpoints for the fleet team.  
+- Used Bubble to manage the internal notice board in the Mottu Services app.  
+- Wrote and recorded best practice guides for third-party drivers.  
+
+---
+
+## Education  
+
 **FIAP - Paulista College of Informatics and Business Administration**  
-*2023 - 2025*  
-**Systems Analysis and Development | Technical Degree**
+Systems Analysis and Development | Technical Degree  
+*2023 – 2025-06*
 
 ---
 
-## Skills & Abilities 
-**Back-End:** Java, Python, Node.js, Spring, Maven  
-**Front-End:** HTML, CSS, Bootstrap, JavaScript, React  
-**Databases:** SQL (MySQL, PostgreSQL, OracleSQL), NoSQL (MongoDB)  
-**Cloud:** AWS  
-**Tools:** VS Code, IntelliJ, Figma, Git, GitHub  
-**Languages:** Portuguese (Native), English (Advanced), Spanish (Basic)
+## Skills & Abilities  
 
----
+Strong focus on data analysis, process automation, and API integration, with hands-on experience in fleet operations and support systems.
 
-## Projects 
-
-**Salt: Finance Control** – *FIAP*  
-Developed a financial control application from scratch using Java, OracleSQL, HTML, CSS, Bootstrap, and JSP. [GitHub](https://github.com/gabizelaa/salt-finance-control)
-
-**Portfolio - Terminal Gabizela**  
-Personal project to create an interactive terminal-style portfolio using HTML, CSS, Bootstrap, and JavaScript. [GitHub](https://github.com/gabizelaa/portfolio-terminal)
-
-**Personal - WhatsApp Bot**  
-Automated the sending and management of WhatsApp messages via the Twilio API with Python, SQLite database integration, and environment variable usage. [GitHub](https://github.com/gabizelaa/whatsapp-bot)
+- **Back-End:** Python, Java, C#  
+- **Front-End:** React, JavaScript, HTML, CSS, Bootstrap  
+- **Databases:** PostgreSQL, MySQL, SQL Server, SQLite, MongoDB  
+- **Data & Analytics:** Power BI, Google BigQuery, Intercom, Excel  
+- **APIs & Testing:** Postman, Swagger, REST APIs  
+- **Automation & No-Code Tools:** Pipefy, Bubble  
+- **Cloud Platforms:** AWS, Google Cloud (BigQuery)  
+- **Dev Tools & Environments:** VS Code, Visual Studio, JetBrains, Git, GitHub, Windsurf  
+- **Languages:** Portuguese (Native) and English (Advanced)  
